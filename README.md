@@ -1,1 +1,2 @@
-# 100daysofalgosolving
+# 100daysofalgorithmsolving 
+# challenges from Codewars and Edabit
